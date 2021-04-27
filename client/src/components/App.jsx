@@ -6,7 +6,7 @@ import { useSelector, useDispatch } from 'react-redux'
 import { auth } from '../actions/user'
 import GlobalStyle from '../globalStyles'
 import cloud from '../assets/img/cloud.jpg'
-import { DarkTheme, LightTheme } from '../theme'
+import { DarkTheme, LightTheme } from '../Theme'
 
 export const App = () => {
     
@@ -88,6 +88,4 @@ const AppWrapper = styled.div`
     min-height: 100vh;
     display: grid;
     grid-template-rows: auto minmax(200px, 1fr) auto;
-    @media(max-width: 1030px) {
-    }
 `
