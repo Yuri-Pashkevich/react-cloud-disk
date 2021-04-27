@@ -1,0 +1,7 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://shmulher:gfenix6_akg120@cloud.3rjp5.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey": "mern-cloud-disk",
+    "filePath": "C:\\Users\\Shmul\\Desktop\\MERN cloud-disk\\server\\files",
+    "staticPath": "C:\\Users\\Shmul\\Desktop\\MERN cloud-disk\\server\\static"
+}
