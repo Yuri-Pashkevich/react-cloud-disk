@@ -6,7 +6,7 @@ import { useSelector, useDispatch } from 'react-redux'
 import { auth } from '../actions/user'
 import GlobalStyle from '../globalStyles'
 import cloud from '../assets/img/cloud.jpg'
-import { DarkTheme, LightTheme } from '../Theme'
+import { DarkTheme, LightTheme } from '../theme'
 
 export const App = () => {
     
